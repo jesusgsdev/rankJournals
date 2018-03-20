@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/jesusgsdev/rankJournals.svg?branch=master)](https://travis-ci.org/jesusgsdev/rankJournals)
 [![codecov](https://codecov.io/gh/jesusgsdev/rankJournals/branch/master/graph/badge.svg)](https://codecov.io/gh/jesusgsdev/rankJournals)
+[![BCH compliance](https://bettercodehub.com/edge/badge/jesusgsdev/rankJournals?branch=master)](https://bettercodehub.com/)
+
 # Exercise
 You should implement the following features using Java. There is no need to persist any data to a database or to build a user interface. You should prove your code works by unit testing it to cover the features listed below. Automating your unit testing with Maven or Ant would be preferable. You have been asked to add a new feature which provides the ability to rank journals.
 
